@@ -1,0 +1,136 @@
+{
+  "shitlords": [
+    {
+      "name": "gorillaz",
+      "avatar": "../images/gorillaz.jpg",
+      "date": "3-26-21",
+      "desc": "as the saying goes, 'feels bad inc'",
+      "tweetlink": "",
+      "nftlink": "",
+      "articlelink": "https://www.theverge.com/2021/3/26/22353219/gorrilaz-artist-nft-release-environmental-concerns",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "PES",
+      "avatar": "../images/pes.png",
+      "date": "4-20-21",
+      "desc": "the greedy, greedy caterpillar",
+      "tweetlink": "https://twitter.com/PESfilm/status/1384593127768354817?s=20",
+      "nftlink": "https://knownorigin.io/gallery/355400-caterpillar-walking",
+      "articlelink": "",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "tenacious d",
+      "avatar": "../images/tenacious.jpg",
+      "date": "4-16-21",
+      "desc": "we won't live forever if you destroy the earth, asshole",
+      "tweetlink": "https://twitter.com/tenaciousd/status/1383096798282096640",
+      "nftlink": "https://thelaughbutton.com/tenacious-d-is-getting-into-the-world-of-nft",
+      "articlelink": "https://thelaughbutton.com/tenacious-d-is-getting-into-the-world-of-nft",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "blender guru",
+      "avatar": "../images/blenderguru.png",
+      "date": "4-16-21",
+      "desc": "donut guy, apparently also racist",
+      "tweetlink": "https://twitter.com/andrewpprice/status/1383307697395695621?s=20",
+      "nftlink": "",
+      "articlelink": "",
+      "jerklink": "https://twitter.com/devonko_/status/1347630835235573761?s=20",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "grimes",
+      "avatar": "../images/grimes.jpg",
+      "date": "2-28-21",
+      "desc": "how was juilliard, boxxy?",
+      "tweetlink": "https://twitter.com/niftygateway/status/1365806419828596738",
+      "nftlink": "https://niftygateway.com/collections/warnymphvolume1",
+      "articlelink": "https://news.artnet.com/art-world/grimes-sold-nft-art-1948177",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "elon musk",
+      "avatar": "../images/elon.jpg",
+      "date": "always",
+      "desc": "i don't think i have to explain why this guy is on here",
+      "tweetlink": "https://twitter.com/elonmusk",
+      "nftlink": "",
+      "articlelink": "",
+      "jerklink": "https://redflag.org.au/node/7195",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "SEGA",
+      "avatar": "../images/sega.jpg",
+      "date": "4-27-21",
+      "desc": "looks like dr eggman's at the wheel",
+      "tweetlink": "https://twitter.com/SEGA_OFFICIAL/status/1386928722868019200",
+      "nftlink": "",
+      "articlelink": "",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "aphex twin",
+      "avatar": "../images/aphex.jpg",
+      "date": "3-13-21",
+      "desc": "genuinely no idea who this is",
+      "tweetlink": "https://twitter.com/AphexTwin/status/1370911429298126848?s=20",
+      "nftlink": "https://foundation.app/AphexTwin/afx-weirdcore-blockscanner-7180",
+      "articlelink": "https://pitchfork.com/news/aphex-twin-sells-nft-artwork-for-128000/",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "arca",
+      "avatar": "../images/arca.jpg",
+      "date": "4-9-21",
+      "desc": "no idea who this is either",
+      "tweetlink": "https://twitter.com/arca1000000/status/1380632581427843075?s=20",
+      "nftlink": "",
+      "articlelink": "https://crackmagazine.net/2021/04/arca-mints-first-nft-rorscharchkick/",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "annoying orange",
+      "avatar": "../images/orange.jpeg",
+      "date": "4-11-21",
+      "desc": "...this is still a thing?",
+      "tweetlink": "",
+      "nftlink": "",
+      "articlelink": "https://www.newsweek.com/annoying-orange-nft-youtube-video-twitter-1582785",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "teletubbies (???)",
+      "avatar": "../images/tubby.jpg",
+      "date": "4-2-21",
+      "desc": "hello? what? why?",
+      "tweetlink": "https://twitter.com/TeletubbiesHQ/status/1377940924605546496?s=20",
+      "nftlink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/38610245185286191985771589626121884088982128818119111954117625410235670724609",
+      "articlelink": "https://www.shacknews.com/article/123637/teletubbies-teases-cryptocurrency-nft-or-something-even-dumber",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    }
+  ]
+}
