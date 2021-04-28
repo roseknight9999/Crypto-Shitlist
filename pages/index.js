@@ -30,11 +30,13 @@ function createMarkup() {
       output += "<Text> • </Text><a target='_blank' href='" + shitlist.shitlords[i].jerklink + "'>jerk info</a>"
     }
 
-    output += "<Text> • </Text></div>";
+    output += "<Text> • </Text>";
 
     if (shitlist.shitlords[i].date != "") {
       output += "<br/><p style='color:gray;'>" + shitlist.shitlords[i].date + "'</p>"
     }
+
+    output += "</div>";
   }
 
 
