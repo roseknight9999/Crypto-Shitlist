@@ -33,7 +33,7 @@ function createMarkup() {
     output += "<Text> • </Text>";
 
     if (shitlist.shitlords[i].date != "") {
-      output += "<br/><p style='color:gray;'>" + shitlist.shitlords[i].date + "'</p>"
+      output += "<br/><p style='color:gray;font-size:0.7rem;'>" + shitlist.shitlords[i].date + "</p>"
     }
 
     output += "</div>";
