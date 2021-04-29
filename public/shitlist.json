@@ -109,6 +109,30 @@
       "archivelink": ""
     },
     {
+      "name": "pringles",
+      "avatar": "../images/pringles.jpg",
+      "date": "3-17-21",
+      "desc": "doritos are better anyway",
+      "tweetlink": "https://twitter.com/Pringles/status/1372242606902673409?s=20",
+      "nftlink": "https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:322068:0x9b6d720354b24a47ed44d159a77accbb059dcf9e?tab=details",
+      "articlelink": "https://www.deseret.com/u-s-world/2021/3/22/22340865/pringles-selling-nft-digital-images",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
+      "name": "charmin",
+      "avatar": "../images/charmin.png",
+      "date": "3-17-21",
+      "desc": "really reaching the BOTTOM of the barrel here",
+      "tweetlink": "https://twitter.com/Charmin/status/1372157127280766981?s=20",
+      "nftlink": "https://rarible.com/charmin",
+      "articlelink": "https://www.theverge.com/tldr/2021/3/17/22336115/charmin-nft-toilet-paper-cryptoart-marketing",
+      "jerklink": "",
+      "imageURL": "",
+      "archivelink": ""
+    },
+    {
       "name": "annoying orange",
       "avatar": "../images/orange.jpeg",
       "date": "4-11-21",
